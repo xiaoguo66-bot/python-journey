@@ -1,6 +1,6 @@
 # python-journey
 
-小郭的 Python 自学仓库。目标：12 周内拿到第一份 Python 相关岗位。
+小郭的 Python 自学仓库。目标：12 周内拿到第一份 Python 相关岗位。go go go
 
 ## 目录约定
 
